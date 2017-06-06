@@ -1,0 +1,7 @@
+.
+fmt/fmt
+spdlog/include/spdlog
+spdlog/include/spdlog/details
+spdlog/include/spdlog/fmt
+spdlog/include/spdlog/fmt/bundled
+spdlog/include/spdlog/sinks
